@@ -14,7 +14,7 @@
 * **Идентификатор:** TSQS-TestShop-2026-05-V1.0
 * **Версия:** 1.0
 * **Дата создания:** 26.05.2026
-* **Дата последнего обновления:** 26.05.2026
+* **Дата последнего обновления:** 31.05.2026
 
 ### Введение
 Данный тест-план описывает тестирование учебного проекта веб-приложения магазина мебели test-shop.qa.studio. Документ определяет рамки тестирования, объем тестирования, подход к нему, методы, а также инструменты.
@@ -33,8 +33,9 @@
 ## 🔗 2. ССЫЛКИ НА ДОКУМЕНТЫ
 * **Интеллект-карта декомпозиции в Miro:** [Открыть карту (View Only)](https://miro.com/app/board/uXjVGGJfCVc=/?share_link_id=445348615153)
 * **Репозиторий проекта на GitHub:** *Вы находитесь здесь* 
-* **Баг-репорты в Jira:** *[скоро появится ссылка]*
-* **Тест-кейсы в Qase:** *[скоро появится ссылка]*
+* **Баг-репорты в Jira:** [Открыть бэклог багов (Read Only)](https://artamkindima-1750832109399.atlassian.net/jira/software/projects/TSQS/boards/2/backlog?atlOrigin=eyJpIjoiNmViMTZjYjE5MmZmNDA3ZGJmOTY2NTJlMjJkOTY1M2MiLCJwIjoiaiJ9)
+* **Тест-кейсы в Qase:** [Открыть проект в Qase](https://app.qase.io/project/TSQS)
+* **История запусков и отчеты:** [Посмотреть отчеты в Google Drive](https://drive.google.com/drive/folders/1ZUw51HY590Ql9B2TfdCZDixRCdPG7kIy?usp=sharing)
 
 ---
 
